@@ -12,7 +12,7 @@ package main
 import (
 	"flag"
 
-	"github.com/uber-research/go-context-propagate"
+	propagate "github.com/sywhang/go-context-propagate"
 )
 
 // DefaultDebugLevel defines default debugging level for generating
